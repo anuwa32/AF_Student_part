@@ -1,0 +1,1 @@
+export const CON_URL = 'http://localhost:8082';
